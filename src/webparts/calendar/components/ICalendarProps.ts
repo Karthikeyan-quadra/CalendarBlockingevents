@@ -6,5 +6,5 @@ export interface ICalendarProps {
   environmentMessage: string;
   hasTeamsContext: boolean;
   userDisplayName: string;
-  context: WebpartContext;
+  context: WebPartContext;
 }
